@@ -1,28 +1,11 @@
-.search-column{
-    background-color:	#f3f3f3;
+header{
+    background: rgba(24, 24, 27, 0.5)
 }
 
-.list-group-item{
-    line-height: 0.5;
-    border: none;
-}
-.card-body{
-    flex:auto
-}
-
-span.severe{
-    padding: 3px;
-    background-color: red;
-    color:white;
-}
-
-span.moderate{
-    padding: 3px;
-    background-color: yellow;
-}
-
-span.favorable{
-    padding: 3px;
-    background-color: green;
-    color:white;
+body{
+    background: url(https://images.livemint.com/img/2021/09/21/1600x900/rain-Weather--1_1632245851316_1632245928797.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
 }
